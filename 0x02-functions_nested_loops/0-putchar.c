@@ -1,8 +1,9 @@
 #include"main.h"
 
 /**
- * main - Entry point
- * return: Always 0
+ * main - print _putchar
+ * is  written by innocent
+ * return: 0
  */
 
 int main(void)
